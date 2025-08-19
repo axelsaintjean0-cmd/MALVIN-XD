@@ -1,10 +1,17 @@
-
-module.exports = {
-  SESSION_ID: "malvin~grMl2L7D#yq3BfRiMs6xa6ytOCNMYH3HzOnLJ95UZkBDyKwgV_lI",  // add your Session Id here
-  
-  OWNER_NUMBER: "2250715405077", // put your phone number here
-  
-  PREFIX: ".", // prefix (e.g., ., /, !, *)
-  
-  TIMEZONE: "Africa/Harare" //put your country timeZone....leave blank if u don't know.
-};
+PREFIXE= .
+NOM_OWNER="Szchino"
+NUMERO_OWNER="+2250715405077"
+MODE=private
+MENU=https://i.ibb.co/ynx9QcZ/image.jpg
+SESSION_ID="malvin~grMl2L7D#yq3BfRiMs6xa6ytOCNMYH3HzOnLJ95UZkBDyKwgV_lI"
+DATABASE=postgresql://postgres.qnjvgxwyncnsbpfxwrbq:ovlmdmdpasse@aws-0-eu-central-1.pooler.supabase.com:6543/postgres
+LEVEL_UP=non
+STICKER_PACK_NAME="Sz-sticker"
+STICKER_AUTHOR_NAME=OVL-MD
+ANTIDELETE="off/pm/status/gc/all"
+RENDER_API_KEY=
+DL_STATUS="on"
+ANTI_VUE_UNIQUE="on"
+LIKE_STATUS="on"
+PRESENCE="off/enregistre/ecrit/enligne"
+LECTURE_STATUS="on/off"
